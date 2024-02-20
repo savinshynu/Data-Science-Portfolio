@@ -31,9 +31,11 @@ Developed a python pipeline which can process the time series data from LWA tels
 ### 4. Searching for intended signal transmission from One Web satellite constellation.
 The One Web satellite constellation (similar to Space X constellation) consists of nearly 630 satellites oribitting in the low earth orbit (LEO). These satellites are designated to communicate with Earth basec receivers between 10.7-12.7 GHz. In this project, I utilized the observations of One Webb satellties with the 13 m Onsala Space telescope in Sweden to gain an understanding of how often these satellties communications affect ground based radio telescope observations of astrophysical sources. 
 
-The [SERES](https://github.com/savinshynu/SERES) repository contains the statistical and visualization tools used understand the effect of satellite transmissions on radio telescope observations. 
+The ***[SERES](https://github.com/savinshynu/SERES)*** repository contains the statistical and visualization tools used understand the effect of satellite transmissions on radio telescope observations. 
 
 ### 5. Studying radio emission from meteors using the data from OVRO-LWA telescope in California
-Implemented tools and methodologies to detect radio emission from meteors using the raw telescope data product (cross correlated time series data) from the OVRO-LWA telescope. The [MRA-OVRO](https://github.com/savinshynu/MRA-OVRO) repository contains the tools developed to process the data and identify meteors producing radio emissions. ***This included data cleaning, Fourier transforms to convert raw data to images, image processing, anomaly detection, time series analysis, Fourier domain enhancements and deconvolution techniques.***
+Implemented tools and methodologies to detect radio emission from meteors using the raw telescope data product (cross correlated time series data) from the OVRO-LWA telescope. The ***[MRA-OVRO](https://github.com/savinshynu/MRA-OVRO)*** repository contains the tools developed to process the data and identify meteors producing radio emissions. ***This included data cleaning, Fourier transforms to convert raw data to images, image processing, anomaly detection, time series analysis, Fourier domain enhancements and deconvolution techniques.***
 
-## Learning Projects - (in progress)
+## Fun Projects
+### 1. Exploratory data analysis and predictive modelling of insurance charges using multivariate linear/polynomial regression.
+This ***[Jupyter notebook](https://github.com/savinshynu/DS-Projects/blob/master/EDA_visualization_multivariate_regression.ipynb)*** basically try to develop a model which can predict the insurance cost of clients in the United states. The dataset for this project has been taken from Kaggle. This notebook utilizes ***pandas to conduct exploratory data analysis, matplotlib for plotting the data and scikit-learn for mutilvariate linear/polynomial regression modelling.***
