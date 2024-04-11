@@ -36,9 +36,12 @@ The ***[SERES](https://github.com/savinshynu/SERES)*** repository contains the s
 ### 5. Studying radio emission from meteors using the data from OVRO-LWA telescope in California
 Implemented tools and methodologies to detect radio emission from meteors using the raw telescope data product (cross correlated time series data) from the OVRO-LWA telescope. The ***[MRA-OVRO](https://github.com/savinshynu/MRA-OVRO)*** repository contains the tools developed to process the data and identify meteors producing radio emissions. ***This included data cleaning, Fourier transforms to convert raw data to images, image processing, anomaly detection, time series analysis, Fourier domain enhancements and deconvolution techniques.***
 
-## ML Projects
+## Personal Projects
 ### 1. Exploratory data analysis and predictive modelling of insurance claim data using multivariate linear/polynomial regression.
 This ***[Jupyter notebook](https://github.com/savinshynu/DS-Projects/blob/master/EDA_visualization_multivariate_regression.ipynb)*** basically try to develop a model which can predict the insurance cost of clients in the United states. The dataset for this project has been taken from Kaggle. This notebook utilizes ***pandas to conduct exploratory data analysis, matplotlib for plotting the data and scikit-learn for mutilvariate linear/polynomial regression modelling.***
 
 ### 2. Deep learning to classify medical images of patients with tensorflow.
 This ***[Jupyter notebook](https://github.com/savinshynu/DS-Projects/blob/master/Medical-Image-Classification-Deeplearning.ipynb)*** demonstrates the development of a deep learning model, multi layer perceptron (MLP) model which can classify the medical images of different body parts taken using MRI, CT and Xray scans (collected from Kaggle). ***The pandas, numpy and matplotlib is used for exploratory data analysis and visualization. Tensorflow and scikit-learn is utilized for building the deep learning model which can classify the images with 99 % accuracy.***
+
+### 3. Exploratory data analysis, visualization and predictive modeling of Walmart Sales in R.
+This ***[R Markdown notebook](https://github.com/savinshynu/DS-Projects/blob/master/DataAnalysis-with-R/EDA-linear-regression.pdf)*** shows how multivariate linear regression can be used to predict the Walmart Sales as a function of regional, time and economic factors in the R language. The R libraries *rio* is used for importing data, *dplyr and tidyr* is used for data manipulation, *ggplot and plotly* are used for data visualization. Principal component analysis and correlation calculations are also calculated to understand the correlation between features in the datasets.
