@@ -1,7 +1,7 @@
 # Data-Science-Portfolio 
 A portfolio summarizing the data science and ML projects conducted for academic research and learning.
 
-All the projects are listed in two categories: academic projects for scientific research and fun projects for self learning.
+All the projects are listed in two categories: academic projects for scientific research and personal projects for self learning.
 
 
 ##  Academic Projects
@@ -36,6 +36,8 @@ The ***[SERES](https://github.com/savinshynu/SERES)*** repository contains the s
 ### 5. Studying radio emission from meteors using the data from OVRO-LWA telescope in California
 Implemented tools and methodologies to detect radio emission from meteors using the raw telescope data product (cross correlated time series data) from the OVRO-LWA telescope. The ***[MRA-OVRO](https://github.com/savinshynu/MRA-OVRO)*** repository contains the tools developed to process the data and identify meteors producing radio emissions. ***This included data cleaning, Fourier transforms to convert raw data to images, image processing, anomaly detection, time series analysis, Fourier domain enhancements and deconvolution techniques.***
 
+### 6. Using SQL (Structured Query Language) to interact with the VLA COSMIC database.
+The [SQ-COSMICDB-Git](https://github.com/savinshynu/SQL-COSMICDB-Git) repository contains sripts and jupyter notebooks to interact with the VLA COSMIC database using Python. This ***[Jupyter notebook](https://github.com/savinshynu/SQL-COSMICDB-Git/blob/master/cosmic_sql_query-git.ipynb)*** shows how SQL commands can be used to submit simple and complicated queries, collect and analyze data from the database.
 ## Personal Projects
 ### 1. Exploratory data analysis and predictive modelling of insurance claim data using multivariate linear/polynomial regression.
 This ***[Jupyter notebook](https://github.com/savinshynu/DS-Projects/blob/master/EDA_visualization_multivariate_regression.ipynb)*** basically try to develop a model which can predict the insurance cost of clients in the United states. The dataset for this project has been taken from Kaggle. This notebook utilizes ***pandas to conduct exploratory data analysis, matplotlib for plotting the data and scikit-learn for mutilvariate linear/polynomial regression modelling.***
